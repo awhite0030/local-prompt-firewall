@@ -1,0 +1,26 @@
+{
+  "name": "local-prompt-firewall",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first PII protection before web LLM prompts are sent.",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace=@local-prompt-firewall/core && npm run build --workspace=@local-prompt-firewall/chrome-extension",
+    "test": "npm run test --workspace=@local-prompt-firewall/core",
+    "typecheck": "npm run typecheck --workspace=@local-prompt-firewall/core && npm run typecheck --workspace=@local-prompt-firewall/chrome-extension",
+    "clean": "npm run clean --workspaces --if-present"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.321",
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

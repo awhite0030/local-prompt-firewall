@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Local Prompt Firewall",
+  "version": "0.1.0",
+  "description": "Locally detects and replaces sensitive text before it is sent to ChatGPT.",
+  "permissions": ["storage", "tabs"],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://chat.openai.com/*"
+  ],
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Local Prompt Firewall",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}

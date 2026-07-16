@@ -1,0 +1,17 @@
+[
+  {
+    "name": "synthetic payment card",
+    "input": "Use 4242 4242 4242 4242 for the sandbox.",
+    "types": ["payment_card"]
+  },
+  {
+    "name": "invalid card-like identifier",
+    "input": "Reference 4242 4242 4242 4243 is not a card.",
+    "types": []
+  },
+  {
+    "name": "synthetic URL secret",
+    "input": "https://example.test/callback?access_token=synthetic-value",
+    "types": ["url_secret"]
+  }
+]

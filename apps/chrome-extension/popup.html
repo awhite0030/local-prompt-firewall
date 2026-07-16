@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Local Prompt Firewall</title>
+  </head>
+  <body>
+    <main>
+      <h1>Local Prompt Firewall</h1>
+      <p>ChatGPT prompts are scanned locally before sending. No telemetry or cloud service is used.</p>
+      <button id="restore" type="button">Restore selected tokens</button>
+      <button id="clear" type="button" class="secondary">Clear this tab’s session</button>
+      <output id="status" aria-live="polite"></output>
+    </main>
+    <script type="module" src="/src/popup.ts"></script>
+  </body>
+</html>

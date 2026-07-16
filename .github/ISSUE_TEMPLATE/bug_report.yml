@@ -1,0 +1,20 @@
+name: Bug report
+description: Report a reproducible problem without secrets or real PII.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Use synthetic values only. Never paste credentials, prompts, or personal data."
+  - type: input
+    id: version
+    attributes:
+      label: Version
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Synthetic reproduction
+      description: Include expected and actual behaviour.
+    validations:
+      required: true

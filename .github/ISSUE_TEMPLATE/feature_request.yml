@@ -1,0 +1,16 @@
+name: Feature request
+description: Propose a focused improvement to local prompt privacy.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and privacy impact
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
