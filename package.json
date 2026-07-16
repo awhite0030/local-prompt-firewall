@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/chrome": "^0.0.321",
     "@types/node": "^24.0.3",
-    "typescript": "^5.8.3",
+    "typescript": "^7.0.2",
     "vite": "^6.3.5",
     "vitest": "^3.2.2"
   },
