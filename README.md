@@ -16,3 +16,8 @@
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. PRs welcome! 🔥
 
 See docs for installation and usage.
+
+## Quick Start
+1. Install from Chrome Web Store (coming soon) or load unpacked.
+2. Enable in popup.
+3. Test with sample prompts.
