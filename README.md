@@ -12,4 +12,7 @@
 - Improved detection algorithms
 - Better UI for managing rules
 
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. PRs welcome! 🔥
+
 See docs for installation and usage.
