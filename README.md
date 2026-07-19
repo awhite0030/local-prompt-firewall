@@ -11,6 +11,7 @@
 ## Recent Updates
 - Improved detection algorithms
 - Better UI for managing rules
+- Minor doc tweaks for clarity
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. PRs welcome! 🔥
