@@ -12,6 +12,7 @@
 - Improved detection algorithms
 - Better UI for managing rules
 - Minor doc tweaks for clarity
+- Added note on upcoming custom regex support based on community feedback 🚀
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. PRs welcome! 🔥
