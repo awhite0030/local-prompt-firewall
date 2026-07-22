@@ -5,3 +5,7 @@ coverage/
 *.log
 *.crx
 *.zip
+
+# Build outputs
+build/
+.next/
