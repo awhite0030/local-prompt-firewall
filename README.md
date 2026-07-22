@@ -23,3 +23,6 @@ See docs for installation and usage.
 1. Install from Chrome Web Store (coming soon) or load unpacked.
 2. Enable in popup.
 3. Test with sample prompts.
+
+## Ideas
+- Explore browser storage for rule persistence improvements
