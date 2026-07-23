@@ -26,3 +26,6 @@ See docs for installation and usage.
 
 ## Ideas
 - Explore browser storage for rule persistence improvements
+
+## TODO
+- More test cases for edge scenarios
