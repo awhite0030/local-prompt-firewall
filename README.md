@@ -1,31 +1,9 @@
 # Local Prompt Firewall
 
-**Local Prompt Firewall** is an open-source Chrome extension that helps protect your privacy by detecting and masking sensitive information in prompts before they are sent to AI services like ChatGPT.
+Local-first Chrome extension that detects and masks sensitive text before ChatGPT prompts are sent.
 
-## Features
-- Local-first: Runs entirely in your browser
-- Sensitive data detection (PII, API keys, etc.)
-- Custom rules and patterns
-- Lightweight and fast
+## Recent update
+- Added more examples to docs
+- Minor UI tweaks for better UX
 
-## Recent Updates
-- Improved detection algorithms
-- Better UI for managing rules
-- Minor doc tweaks for clarity
-- Added note on upcoming custom regex support based on community feedback 🚀
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. PRs welcome! 🔥
-
-See docs for installation and usage.
-
-## Quick Start
-1. Install from Chrome Web Store (coming soon) or load unpacked.
-2. Enable in popup.
-3. Test with sample prompts.
-
-## Ideas
-- Explore browser storage for rule persistence improvements
-
-## TODO
-- More test cases for edge scenarios
+Let's keep privacy first! 🛡️
