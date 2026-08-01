@@ -9,5 +9,6 @@ Local-first Chrome extension that detects and masks sensitive text **before** Ch
 - Small wording polish for clarity
 - Tiny extra note for first-time users
 - Explicit note that all matching/masking is client-side
+- Quick reminder: patterns never leave your browser
 
 Let's keep privacy first! 🛡️
