@@ -11,5 +11,6 @@ Local-first Chrome extension that detects and masks sensitive text **before** Ch
 - Explicit note that all matching/masking is client-side
 - Quick reminder: patterns never leave your browser
 - Tiny extra clarity on client-side processing
+- Small note: detection and masking happen entirely on-device
 
 Let's keep privacy first! 🛡️
