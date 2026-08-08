@@ -1,6 +1,6 @@
 # Local Prompt Firewall
 
-Local-first Chrome extension that detects and masks sensitive text **before** ChatGPT prompts are sent. Everything runs in the browser — nothing is sent to any server.
+Local-first Chrome extension that detects and masks sensitive text **before** prompts are sent to ChatGPT (and similar tools). Everything runs in the browser — nothing is sent to any server.
 
 ## Features
 - Client-side detection and masking of sensitive patterns (API keys, emails, tokens, etc.)
