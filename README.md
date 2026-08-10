@@ -16,4 +16,6 @@ You can test your patterns in the options page before enabling them. All matchin
 - **ChatGPT** — fully supported today
 - Claude, Gemini, and other AI chat interfaces — on the radar (contributions welcome)
 
+If you run into a site that doesn’t get detected, feel free to open an issue with the URL and a short description.
+
 Let's keep privacy first! 🛡️
