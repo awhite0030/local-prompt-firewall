@@ -13,8 +13,13 @@ Local-first Chrome extension that detects and masks sensitive text **before** pr
 You can test your patterns in the options page before enabling them. All matching happens on-device — nothing leaves your browser.
 
 ## Supported chat UIs
-- **ChatGPT** — fully supported today
-- Claude, Gemini, and other AI chat interfaces — on the radar (contributions welcome)
+
+| UI | Status |
+|----|--------|
+| **ChatGPT** | Fully supported today |
+| Claude | On the radar |
+| Gemini | On the radar |
+| Other AI chat interfaces | Contributions welcome |
 
 If you run into a site that doesn’t get detected, feel free to open an issue with the URL and a short description.
 
