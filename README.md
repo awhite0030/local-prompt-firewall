@@ -24,3 +24,5 @@ You can test your patterns in the options page before enabling them. All matchin
 If you run into a site that doesn’t get detected, feel free to open an issue with the URL and a short description.
 
 Let's keep privacy first! 🛡️
+
+> Note: the extension never phones home. Pattern matching and masking stay entirely local.
