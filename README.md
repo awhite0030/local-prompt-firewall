@@ -25,4 +25,4 @@ If you run into a site that doesn’t get detected, feel free to open an issue w
 
 Let's keep privacy first! 🛡️
 
-> Note: the extension never phones home. Pattern matching and masking stay entirely local.
+> Note: the extension never phones home. Pattern matching and masking stay entirely local. No telemetry, no external calls.
