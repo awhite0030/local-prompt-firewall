@@ -9,6 +9,8 @@ Everything runs on-device — no data leaves your browser for analysis. Patterns
 - Custom rules support
 - Simple options page
 
+Tip: the extension only looks at the text you type into supported chat inputs. Nothing is uploaded or logged remotely.
+
 ## Development
 ```bash
 npm install
