@@ -11,6 +11,8 @@ Everything runs on-device — no data leaves your browser for analysis. Patterns
 
 Tip: the extension only looks at the text you type into supported chat inputs. Nothing is uploaded or logged remotely.
 
+Note: all matching and masking happens locally in the browser — no remote calls are made for the firewall logic itself.
+
 ## Development
 ```bash
 npm install
