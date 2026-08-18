@@ -24,6 +24,7 @@ Load the `dist` folder as an unpacked extension in Chrome.
 ## TODO
 - More pattern presets
 - Better options UI polish
+- Optional indicator for last matched pattern (see open issues)
 
 ## Contributing
 PRs and ideas welcome! ❤️
