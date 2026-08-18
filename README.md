@@ -13,6 +13,8 @@ Tip: the extension only looks at the text you type into supported chat inputs. N
 
 Note: all matching and masking happens locally in the browser — no remote calls are made for the firewall logic itself.
 
+Patterns are evaluated in the order they appear; the first matching pattern is used (first-match wins).
+
 ## Development
 ```bash
 npm install
