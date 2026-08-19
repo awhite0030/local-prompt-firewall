@@ -29,4 +29,4 @@ Load the `dist` folder as an unpacked extension in Chrome.
 - Optional indicator for last matched pattern (see open issues)
 
 ## Contributing
-PRs and ideas welcome! ❤️
+PRs and ideas welcome! Check the open issues for small polish ideas. ❤️
