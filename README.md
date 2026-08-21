@@ -15,6 +15,8 @@ Note: all matching and masking happens locally in the browser — no remote call
 
 Patterns are evaluated in the order they appear; the first matching pattern is used (first-match wins).
 
+You can test custom patterns directly in the options page before saving — handy when writing new regexes.
+
 ## Development
 ```bash
 npm install
