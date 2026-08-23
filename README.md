@@ -19,6 +19,8 @@ You can test custom patterns directly in the options page before saving — hand
 
 After saving new patterns, you may need to reload the extension (or the options page) for the changes to take full effect.
 
+Custom patterns are case-sensitive by default (use a case-insensitive flag if you need otherwise).
+
 ## Development
 ```bash
 npm install
