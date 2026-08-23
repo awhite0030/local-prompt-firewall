@@ -33,6 +33,7 @@ Load the `dist` folder as an unpacked extension in Chrome.
 - More pattern presets
 - Better options UI polish
 - Optional indicator for last matched pattern (see open issues)
+- Optional subtle badge/toast when something was masked (session counter?)
 - Docs tip about testing custom patterns in options page
 
 ## Contributing
