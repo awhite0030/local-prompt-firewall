@@ -21,7 +21,7 @@ After saving new patterns, you may need to reload the extension (or the options 
 
 Custom patterns are case-sensitive by default (use a case-insensitive flag if you need otherwise).
 
-After installing, you may need to grant site access / host permissions for the ChatGPT (or other) domains you want the firewall to protect — otherwise it can look inactive until those are confirmed.
+After installing, you may need to grant site access / host permissions for the ChatGPT (or other) domains you want the firewall to protect — otherwise it can look inactive until those are confirmed. Check the extension details in Chrome if it seems quiet on first use.
 
 ## Development
 ```bash
