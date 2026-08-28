@@ -17,7 +17,7 @@ Patterns are evaluated in the order they appear; the first matching pattern is u
 
 You can test custom patterns directly in the options page before saving — handy when writing new regexes.
 
-After saving new patterns, you may need to reload the extension (or the options page) for the changes to take full effect.
+After saving new patterns, reload the extension (or just refresh the ChatGPT tab) so the content script picks up the latest rules.
 
 Custom patterns are case-sensitive by default (use a case-insensitive flag if you need otherwise).
 
