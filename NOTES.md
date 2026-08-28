@@ -8,3 +8,4 @@ Quick place to dump ideas and reminders while working on the extension.
 - First-match wins for overlapping patterns — document this clearly
 - Consider optional last-matched pattern display in the popup (see issue #36)
 - When adding new presets, double-check they don’t accidentally match common non-sensitive strings
+- Optional keyboard shortcut to toggle the firewall (see #47) — maybe expose via chrome.commands so users can rebind
