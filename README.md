@@ -37,6 +37,7 @@ Load the `dist` folder as an unpacked extension in Chrome.
 - Optional indicator for last matched pattern (see open issues)
 - Optional subtle badge/toast when something was masked (session counter?)
 - Docs tip about testing custom patterns in options page
+- Optional keyboard shortcut to toggle the firewall (#47)
 
 ## Contributing
 PRs and ideas welcome! Check the open issues for small polish ideas. ❤️
